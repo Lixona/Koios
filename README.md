@@ -31,6 +31,8 @@ This game is inspired by some of its elements when it comes to gameplay and stri
 **Step 5:** Don't think you are safe just because you have done this! - Stay vigilant and always look for ways to improve your incident response and our plans!
 
 
+
+
 **Remember!**
 
 Hindsight is always 20/20, but it can be really expensive! - Time used being proactive, is time well-spent.
