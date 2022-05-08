@@ -3,17 +3,17 @@ A gamified incident response training tool with a focus on creating a learning e
 
 
 
-# Author
+## Author
 The game is an attribution to the industry, its creation started during a bachelor assignment in 2022 made by Ragnhild Sageng, a student at Noroff University College in Norway.
 
 
 
-# Licensing
+## Licensing
 This games content is licensed under the Creative Commons Attribution License, meaning that others are free to adapt and edit its content. See https://creativecommons.org/licenses/by/4.0/ for details. 
 
 
 
-# Inspiration and Game Element Credits
+## Inspiration and Game Element Credits
 Several elements to the game have been adapted and tweaked from the Oh Noes! - Game which is created by Bruce and Robert Potter. This game is published and shared by expel under the Creative Commons Attribution License.  The game and can be found here: https://info.expel.io/oh-noes. 
 This game is inspired by some of its elements when it comes to gameplay and strives to make a more simplified version of the game. This contribution sections the game templates based on different industry sectors, and it has a heavy focus on the review process following the training session.
 
