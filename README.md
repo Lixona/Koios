@@ -20,15 +20,15 @@ This game is inspired by some of its elements when it comes to gameplay and stri
 
 
 # How To Do This
-** Step 1: ** Read the Master Guide to get a run down of how the game works and when to use the game-elements. 
+**Step 1:** Read the Master Guide to get a run down of how the game works and when to use the game-elements. 
 
-** Step 2:** Download the content you need for running the game at your organization.
+**Step 2:** Download the content you need for running the game at your organization.
 
-**Step 3: ** Enjoy the game and learn something along the way!
+**Step 3:** Enjoy the game and learn something along the way!
 
-** Step 4: ** Review your game and your incident response plan and make changes when necessary
+**Step 4:** Review your game and your incident response plan and make changes when necessary
 
-** Step 5: ** Don't think you are safe just because you have done this! - Stay vigilant and always look for ways to improve your incident response and our plans!
+**Step 5:** Don't think you are safe just because you have done this! - Stay vigilant and always look for ways to improve your incident response and our plans!
 
 
 **Remember!**
