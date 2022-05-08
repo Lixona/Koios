@@ -27,6 +27,6 @@ Step 4: Review your game and your incident response plan and make changes when n
 Step 5: Don't think you are safe just because you have done this! - Stay vigilant and always look for ways to improve your incident response and our plans!
 
 
-Remember!
+**Remember!**
 
 Hindsight is always 20/20, but it can be really expensive! - Time used being proactive, is time well-spent.
