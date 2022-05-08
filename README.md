@@ -11,6 +11,8 @@ The game is an attribution to the industry, its creation started during a bachel
 ## Licensing
 This games content is licensed under the Creative Commons Attribution License, meaning that others are free to adapt and edit its content. See https://creativecommons.org/licenses/by/4.0/ for details. 
 
+See LICENSE.md for more details.
+
 
 
 ## Inspiration and Game Element Credits
