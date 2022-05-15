@@ -9,3 +9,4 @@ All gamescenario templates are found under the Game Templates section.
 
 
 Enjoy Scoping!
+
