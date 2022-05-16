@@ -9,5 +9,8 @@ Remember that every scenario has two files. One that can be presented to the pla
 
 
 
-
 Immerse yourself!
+
+
+
+NOTE: There are not many pre-made scenarios created yet since this is mainl a proof of concept for my bachelor. Maybe more will be added in the future. Time will tell!
