@@ -1,4 +1,4 @@
-#This section contains different pre-made scenarios.
+# This section contains different pre-made scenarios.
 
 You can choose one at random, or follow the inustry scoping guidance and pick one that applies to your industry sector.
 The choice is yours.
