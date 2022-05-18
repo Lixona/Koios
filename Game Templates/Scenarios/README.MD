@@ -10,4 +10,4 @@ Remember that every scenario has two files. One that can be presented to the pla
 
 
 
-__NOTE:__ There are not many pre-made scenarios created yet since this is mainl a proof of concept for my bachelor. Maybe more will be added in the future. Time will tell!
+__NOTE:__ There are not many pre-made scenarios created yet since this is mainly a proof of concept for my bachelor. Maybe more will be added in the future. Time will tell!
