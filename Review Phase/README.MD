@@ -9,5 +9,5 @@ It contains the following phases:
 * Phase 3: Feedback form for the game. - This is where you can get som feedback from the players about the simulation.
 
 
-While it is posible to tweak and adapt your own review phase, it is reccomended to atleast keep these 3 phases so you can review the different aspects of the simulation. The questions within the phases can be changed to better suit your organization. 
+While it is possible to tweak and adapt your own review phase, it is reccomended to atleast keep these 3 phases so you can review the different aspects of the simulation. The questions within the phases can be changed to better suit your organization. 
 
